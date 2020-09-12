@@ -16,11 +16,8 @@ main{
     width: 80px;
 }
 .line{
-    width: 807px;
-    height: 0px;
-    /* left: 315px;
-    top: 410px; */
-    border: 1px solid #0c0d11;
+    width: 802px;
+    border: 1px solid #D1D1D1;
 }
 .blog-photo img{
     width: 170px;
